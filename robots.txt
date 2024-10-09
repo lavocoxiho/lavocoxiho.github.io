@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://lavocoxiho.github.io/sitemap/sitemap_index.txt.gz
